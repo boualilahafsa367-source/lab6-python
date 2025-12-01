@@ -1,0 +1,18 @@
+=== Rapport des notes ===
+Nombre d'étudiants : 8
+Notes originales : [60.0, 45.0, 75.0, 40.0, 85.0, 65.0, 95.0, 50.0]
+Notes après bonus : [65.0, 50.0, 80.0, 45.0, 90.0, 70.0, 100.0, 55.0]
+Moyenne initiale : 64.38
+Moyenne après bonus : 69.38
+Notes ≥ 60 : [60.0, 75.0, 85.0, 65.0, 95.0] (soit 5 étudiants)
+notes_bonus>=60: [65.0, 80.0, 90.0, 70.0, 100.0]
+Détails par étudiant :
+  Étudiant 01 — note 60.00 → bonus 65.00 → categorie : Validation 
+  Étudiant 02 — note 45.00 → bonus 50.00 → categorie : Rattrapage 
+  Étudiant 03 — note 75.00 → bonus 80.00 → categorie : Validation 
+  Étudiant 04 — note 40.00 → bonus 45.00 → categorie : Rattrapage 
+  Étudiant 05 — note 85.00 → bonus 90.00 → categorie : Validation 
+  Étudiant 06 — note 65.00 → bonus 70.00 → categorie : Validation 
+  Étudiant 07 — note 95.00 → bonus 100.00 → categorie : Validation 
+  Étudiant 08 — note 50.00 → bonus 55.00 → categorie : Rattrapage 
+top_3_notes : [95.0, 85.0, 75.0]
